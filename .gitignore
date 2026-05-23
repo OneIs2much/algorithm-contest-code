@@ -1,0 +1,9 @@
+template/
+test/
+.vscode/
+.cph/
+
+*.prob
+*.o
+*.exe
+
