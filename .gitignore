@@ -3,6 +3,7 @@ test/
 .vscode/
 .cph/
 
+*.cpp__tests
 *.prob
 *.o
 *.exe
